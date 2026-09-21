@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @vstepko
 - 👀 I’m interested in DevSecOps
-- 🌱 I’m currently learning something new
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - jist ping me in telegram @vstepko 
+- 📫 How to reach me - just ping me
 
 <!---
 vstepko/vstepko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
